@@ -1,0 +1,11 @@
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.MP4
+*.avi
+*.mov
+datasets/
+runs/
+__pycache__/
+.venv/

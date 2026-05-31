@@ -1,0 +1,290 @@
+[
+  {
+    "model": "yolov8n",
+    "dataset": "universal",
+    "model_path": "F:\\DATA\\DT\\run9\\universal\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\universal\\data.yaml",
+    "precision": 0.8548879770840175,
+    "recall": 0.6906077348066298,
+    "mAP50": 0.754770743572873,
+    "mAP50_95": 0.317474353190929,
+    "fitness": 0.317474353190929,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov8n_on_universal_test",
+    "speed": {
+      "preprocess": 0.21431666727249438,
+      "inference": 4.376480765551185,
+      "loss": 0.0007217929053765077,
+      "postprocess": 0.5039897439881968
+    }
+  },
+  {
+    "model": "yolov8n",
+    "dataset": "zengchong",
+    "model_path": "F:\\DATA\\DT\\run9\\universal\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\zengchong\\data.yaml",
+    "precision": 0.9240183572674647,
+    "recall": 0.88,
+    "mAP50": 0.8873680883675934,
+    "mAP50_95": 0.4331656942797867,
+    "fitness": 0.4331656942797867,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov8n_on_zengchong_test",
+    "speed": {
+      "preprocess": 0.20626538585369975,
+      "inference": 5.560326920553612,
+      "loss": 0.0007846124040392728,
+      "postprocess": 0.4557346155007298
+    }
+  },
+  {
+    "model": "yolov8n",
+    "dataset": "chaoli",
+    "model_path": "F:\\DATA\\DT\\run9\\universal\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\chaoli\\data.yaml",
+    "precision": 0.8015005244066934,
+    "recall": 0.65625,
+    "mAP50": 0.7016675806859407,
+    "mAP50_95": 0.3105633604736261,
+    "fitness": 0.3105633604736261,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov8n_on_chaoli_test",
+    "speed": {
+      "preprocess": 0.1944499987682017,
+      "inference": 2.662449999964641,
+      "loss": 0.000604166416451335,
+      "postprocess": 0.6940791669573324
+    }
+  },
+  {
+    "model": "yolov8n",
+    "dataset": "congjiang",
+    "model_path": "F:\\DATA\\DT\\run9\\universal\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\congjiang\\data.yaml",
+    "precision": 0.8147091963793203,
+    "recall": 0.527027027027027,
+    "mAP50": 0.6179697496055707,
+    "mAP50_95": 0.2126459919608102,
+    "fitness": 0.2126459919608102,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov8n_on_congjiang_test",
+    "speed": {
+      "preprocess": 0.6019857121698026,
+      "inference": 13.968357140713904,
+      "loss": 0.0007750017435422965,
+      "postprocess": 0.5352321417636371
+    }
+  },
+  {
+    "model": "yolov9t",
+    "dataset": "universal",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov9t\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\universal\\data.yaml",
+    "precision": 0.8009474602969993,
+    "recall": 0.7113961631993613,
+    "mAP50": 0.7526922614882677,
+    "mAP50_95": 0.3216076593075279,
+    "fitness": 0.3216076593075279,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov9t_on_universal_test",
+    "speed": {
+      "preprocess": 0.29376923040940595,
+      "inference": 7.501284617226189,
+      "loss": 0.0006782065611332655,
+      "postprocess": 0.5326461523042944
+    }
+  },
+  {
+    "model": "yolov9t",
+    "dataset": "zengchong",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov9t\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\zengchong\\data.yaml",
+    "precision": 0.954130242788281,
+    "recall": 0.8320832958298898,
+    "mAP50": 0.8950114614301361,
+    "mAP50_95": 0.44852236583834354,
+    "fitness": 0.44852236583834354,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov9t_on_zengchong_test",
+    "speed": {
+      "preprocess": 0.6449461529532877,
+      "inference": 17.742980766342953,
+      "loss": 0.000680774414482025,
+      "postprocess": 0.4922384642458593
+    }
+  },
+  {
+    "model": "yolov9t",
+    "dataset": "chaoli",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov9t\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\chaoli\\data.yaml",
+    "precision": 0.7947348626938242,
+    "recall": 0.6052557351018408,
+    "mAP50": 0.6378662472477223,
+    "mAP50_95": 0.26987492830431503,
+    "fitness": 0.26987492830431503,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov9t_on_chaoli_test",
+    "speed": {
+      "preprocess": 0.2286000017193146,
+      "inference": 5.2097708321525715,
+      "loss": 0.0006208332100262245,
+      "postprocess": 0.5587291646709976
+    }
+  },
+  {
+    "model": "yolov9t",
+    "dataset": "congjiang",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov9t\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\congjiang\\data.yaml",
+    "precision": 0.7623166511023828,
+    "recall": 0.6081081081081081,
+    "mAP50": 0.6296588878929835,
+    "mAP50_95": 0.21020408909174387,
+    "fitness": 0.21020408909174387,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov9t_on_congjiang_test",
+    "speed": {
+      "preprocess": 0.720653572768372,
+      "inference": 16.638057140101278,
+      "loss": 0.0006428578801985298,
+      "postprocess": 0.5957821413176134
+    }
+  },
+  {
+    "model": "yolov10n",
+    "dataset": "universal",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov10n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\universal\\data.yaml",
+    "precision": 0.7663498252529531,
+    "recall": 0.5911602209944752,
+    "mAP50": 0.6491376505253488,
+    "mAP50_95": 0.2509884388465936,
+    "fitness": 0.2509884388465936,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov10n_on_universal_test",
+    "speed": {
+      "preprocess": 0.2978756390989591,
+      "inference": 5.444983333104457,
+      "loss": 0.0005461542735783717,
+      "postprocess": 0.12015769159636244
+    }
+  },
+  {
+    "model": "yolov10n",
+    "dataset": "zengchong",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov10n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\zengchong\\data.yaml",
+    "precision": 0.7989959242361615,
+    "recall": 0.8133333333333334,
+    "mAP50": 0.8182456360903205,
+    "mAP50_95": 0.3482186793932748,
+    "fitness": 0.3482186793932748,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov10n_on_zengchong_test",
+    "speed": {
+      "preprocess": 0.5626499993153489,
+      "inference": 9.157546155620366,
+      "loss": 0.0006076902186927886,
+      "postprocess": 0.1270076900254935
+    }
+  },
+  {
+    "model": "yolov10n",
+    "dataset": "chaoli",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov10n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\chaoli\\data.yaml",
+    "precision": 0.5291123327895381,
+    "recall": 0.46875,
+    "mAP50": 0.531318828078666,
+    "mAP50_95": 0.19927456562661433,
+    "fitness": 0.19927456562661433,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov10n_on_chaoli_test",
+    "speed": {
+      "preprocess": 0.2372416687042763,
+      "inference": 4.140174998610746,
+      "loss": 0.0005000013819274803,
+      "postprocess": 0.10796666902024299
+    }
+  },
+  {
+    "model": "yolov10n",
+    "dataset": "congjiang",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolov10n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\congjiang\\data.yaml",
+    "precision": 0.6895703976077155,
+    "recall": 0.44594594594594594,
+    "mAP50": 0.5155113082153955,
+    "mAP50_95": 0.1787431402884515,
+    "fitness": 0.1787431402884515,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolov10n_on_congjiang_test",
+    "speed": {
+      "preprocess": 0.9039714308788201,
+      "inference": 17.60923571418971,
+      "loss": 0.0005035690264776349,
+      "postprocess": 0.14456785616597959
+    }
+  },
+  {
+    "model": "yolo11n",
+    "dataset": "universal",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolo11n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\universal\\data.yaml",
+    "precision": 0.8706577703861379,
+    "recall": 0.6077348066298343,
+    "mAP50": 0.7249533169202732,
+    "mAP50_95": 0.30423153309445483,
+    "fitness": 0.30423153309445483,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolo11n_on_universal_test",
+    "speed": {
+      "preprocess": 0.2778000004279117,
+      "inference": 5.849885898313891,
+      "loss": 0.0008346127847639413,
+      "postprocess": 0.5722423076617699
+    }
+  },
+  {
+    "model": "yolo11n",
+    "dataset": "zengchong",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolo11n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\zengchong\\data.yaml",
+    "precision": 0.9378718424238572,
+    "recall": 0.8266666666666667,
+    "mAP50": 0.883318758560585,
+    "mAP50_95": 0.41811438520315136,
+    "fitness": 0.41811438520315136,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolo11n_on_zengchong_test",
+    "speed": {
+      "preprocess": 0.6490153811263064,
+      "inference": 14.814842306525232,
+      "loss": 0.0007461528114687938,
+      "postprocess": 0.615907691938516
+    }
+  },
+  {
+    "model": "yolo11n",
+    "dataset": "chaoli",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolo11n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\chaoli\\data.yaml",
+    "precision": 0.7129751325395006,
+    "recall": 0.46875,
+    "mAP50": 0.5963147967135802,
+    "mAP50_95": 0.24222004295799726,
+    "fitness": 0.24222004295799726,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolo11n_on_chaoli_test",
+    "speed": {
+      "preprocess": 0.22892916361646107,
+      "inference": 3.90253333413663,
+      "loss": 0.0017875014843108754,
+      "postprocess": 0.5178291685297154
+    }
+  },
+  {
+    "model": "yolo11n",
+    "dataset": "congjiang",
+    "model_path": "F:\\DATA\\DT\\run9\\model_compare\\yolo11n\\model\\train\\weights\\best.pt",
+    "data": "F:\\DATA\\DT\\run9\\datasets\\congjiang\\data.yaml",
+    "precision": 0.7149842137388722,
+    "recall": 0.5405405405405406,
+    "mAP50": 0.5790907056915043,
+    "mAP50_95": 0.20697168976156788,
+    "fitness": 0.20697168976156788,
+    "save_dir": "F:\\DATA\\DT\\run9\\model_compare\\evaluation\\yolo11n_on_congjiang_test",
+    "speed": {
+      "preprocess": 0.9645250018885625,
+      "inference": 17.607082145072386,
+      "loss": 0.0007571423858670252,
+      "postprocess": 0.7043071403001834
+    }
+  }
+]
