@@ -4,7 +4,7 @@
 [![Models](https://img.shields.io/badge/models-YOLOv8n%20%7C%20YOLOv9t%20%7C%20YOLOv10n%20%7C%20YOLO11n-green.svg)](#模型版本对比)
 [![Dataset](https://img.shields.io/badge/dataset-3_gulou_cases-orange.svg)](#数据集构建)
 
-本项目面向侗族鼓楼木构建筑表面破损区域检测，围绕增冲鼓楼、朝利鼓楼和从江鼓楼三组实例，完成视频抽帧、图像标注、数据集构建、单案例模型训练、三鼓楼融合模型训练和模型版本对比实验。项目主页参考 [SoTA-Point-Cloud](https://github.com/QingyongHu/SoTA-Point-Cloud) 的 GitHub README 展示方式，将数据、方法、结果和可视化材料集中整理。
+本项目面向鼓楼木构建筑表面破损区域检测，围绕增冲鼓楼、朝利鼓楼和从江鼓楼三组实例，完成视频抽帧、图像标注、数据集构建、单案例模型训练、三鼓楼融合模型训练和模型版本对比实验。项目主页参考 [SoTA-Point-Cloud](https://github.com/QingyongHu/SoTA-Point-Cloud) 的 GitHub README 展示方式，将数据、方法、结果和可视化材料集中整理。
 
 <p align="center">
   <img src="./assets/figures/dataset_comparison.png" width="78%">
