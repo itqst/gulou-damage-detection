@@ -226,7 +226,7 @@ python scripts/evaluate_run9_model_compare.py
 
 ## 报告下载
 
-- [鼓楼破损检测论文初稿](./reports/鼓楼破损检测论文初稿.docx)，用于后续论文修改、润色和定稿。
+- [English Dong Drum Tower Damage Detection YOLOv8n](./reports/English_Dong_Drum_Tower_Damage_Detection_YOLOv8n.docx)，英文论文初稿，用于后续修改、润色和定稿。
 - [鼓楼破损检测算法流程说明文档](./reports/鼓楼破损检测算法流程说明文档.docx)，说明数据处理、模型训练、测试评价和检测输出的整体算法流程。
 - [增冲鼓楼破损检测单案例实验报告](./reports/增冲鼓楼破损检测单案例实验报告.docx)
 - [朝利鼓楼破损检测单案例实验报告](./reports/朝利鼓楼破损检测单案例实验报告.docx)
